@@ -146,7 +146,7 @@ html{
 
 /* ... (previous code) ... */
 fieldset{
-    height: calc(100vh/3);
+    height: calc(90vh/3);
 }
 form>*:not(section){
     background-color: rgba(240,204,176,.7);
